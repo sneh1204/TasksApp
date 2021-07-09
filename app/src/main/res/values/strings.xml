@@ -1,0 +1,41 @@
+<resources>
+    <!-- Strings for labels -->
+    <string name="app_name">Tasks</string>
+    <string name="select_task_label">Select Task</string>
+    <string name="task_info_label">Task Information</string>
+    <string name="create_task_label">Create Task</string>
+    <string name="todolist_label">To Do List</string>
+    <string name="display_task_label">Display Task</string>
+    <string name="name_label">Name:</string>
+    <string name="name_hint">Task Name</string>
+    <string name="date_label">Date:</string>
+    <string name="priority_label">Priority:</string>
+    <string name="alert_select_task">Select Task</string>
+    <string name="none">None</string>
+    <string name="invalid_task_entry">Please fill all values</string>
+    <string name="count_task">You have %1$d tasks</string>
+    <string name="task_confirm">Are you sure you want to continue?</string>
+    <string name="date_format">%1$d/%2$d/%3$d</string>
+    <string name="upcoming_task">Upcoming Tasks\n\n%1$s\n%2$s\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t%3$s</string>
+
+
+
+    <!-- Strings for buttons -->
+    <string name="view_tasks_button">VIEW TASKS</string>
+    <string name="create_task_button">CREATE A TASK</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="delete_button">DELETE</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="setdate_button">Set date</string>
+    <string name="radio_button_high">High</string>
+    <string name="radio_button_medium">Medium</string>
+    <string name="radio_button_low">Low</string>
+
+
+    <string name="pos">Yes</string>
+    <string name="neg">No</string>
+
+
+    <string name="title_1">To Do List</string>
+
+</resources>
